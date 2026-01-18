@@ -1,21 +1,8 @@
-ZombieRunner-Unity/
+ZombieRunner-Unity-main/
 ├─ Assets/
-│  ├─ Scenes/
-│  │  ├─ Menu.unity
-│  │  └─ Game.unity
 │  ├─ Scripts/
-│  │  ├─ TopDownRunnerGame.cs
-│  │  ├─ Enemy.cs
-│  │  ├─ InfiniteRoad.cs
-│  │  ├─ TouchMovement.cs
-│  │  └─ MenuManager.cs
 │  ├─ Sprites/
-│  │  ├─ Player.png
-│  │  ├─ Zombie.png
-│  │  ├─ Boss.png
-│  │  ├─ Target.png
-│  │  └─ RoadTile.png
-│  └─ Settings/
+│  └─ Scenes/
 ├─ ProjectSettings/
 ├─ Packages/
-├─ README.md
+└─ README.md
