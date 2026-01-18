@@ -1,0 +1,42 @@
+ZombieRunner-Unity/
+├─ Assets/
+│  ├─ Scenes/
+│  │  ├─ Menu.unity
+│  │  └─ Game.unity
+│  ├─ Scripts/
+│  │  ├─ TopDownRunnerGame.cs
+│  │  ├─ Enemy.cs
+│  │  ├─ InfiniteRoad.cs
+│  │  ├─ TouchMovement.cs
+│  │  └─ MenuManager.cs
+│  ├─ Sprites/
+│  │  ├─ Player.png
+│  │  ├─ Zombie.png
+│  │  ├─ Boss.png
+│  │  ├─ Target.png
+│  │  └─ RoadTile.png
+│  └─ Settings/
+├─ ProjectSettings/
+├─ Packages/
+├─ README.md
+# Zombie Runner – Unity 2D
+
+## Installation (ultra simple)
+
+1. Installer Unity Hub
+2. Installer Unity 2022 LTS (2D + Android support recommandé)
+3. Télécharger ce repo (Code → Download ZIP)
+4. Unity Hub → Open → sélectionner le dossier
+5. Ouvrir la scène `Menu`
+6. Play ▶️
+
+## Contenu
+- Runner shooter vue de dessus
+- Cibles + upgrades
+- Horde de zombies
+- Boss final
+- Menu d’améliorations
+- Contrôle tactile mobile
+- Offline
+
+Prêt pour export Play Store.
